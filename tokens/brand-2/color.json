@@ -1,0 +1,20 @@
+{
+  "color": {
+    "primary": {
+      "background": {
+        "hovered": {
+          "$value": "{core.color.orange.400}",
+          "$type": "color"
+        },
+        "none": {
+          "$value": "{core.color.orange.300}",
+          "$type": "color"
+        },
+        "pressed": {
+          "$value": "{core.color.orange.500}",
+          "$type": "color"
+        }
+      }
+    }
+  }
+}

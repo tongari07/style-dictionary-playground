@@ -1,5 +1,9 @@
 {
-  "source": ["tokens/**/*.json"],
+  "source": [
+    "tokens/core/*.json",
+    "tokens/primary/*.json",
+    "tokens/secondary/*.json"
+  ],
   "platforms": {
     "css": {
       "transformGroup": "css",
